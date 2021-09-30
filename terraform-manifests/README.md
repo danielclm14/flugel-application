@@ -1,4 +1,4 @@
-In this file directory, you cand do the basic terraform commands to create an s3 bucket and a ec2 instance:
+In this file directory, you can do the basic terraform commands to create an s3 bucket and a ec2 instance:
 ```
 # Initialize Terraform
 terraform init
