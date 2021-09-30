@@ -7,9 +7,9 @@ Pre-Conditions-2: Ensure AMI you are provisioning exists in that region if not u
 
 Pre-Conditions-3: Verify your AWS Credentials in $HOME/.aws/credentials
 
-into test folder and run:
+Into test folder run:
 ```
-go test
+go test 
 ```
 
 ## Project structure
